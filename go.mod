@@ -1,4 +1,4 @@
-sed -i -e 's/module\ github.com\/hbstack\/theme/module\ github.com\/pietropetracca\/testblog.git/' go.mod
+module github.com/pietropetracca/testblog
 
 
 go 1.19
